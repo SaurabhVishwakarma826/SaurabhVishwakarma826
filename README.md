@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am ChatGPT, an AI language model developed by OpenAI. I'm based on the GPT-3.5 architecture, which stands for Generative Pre-trained Transformer 3.5. I have been trained on a diverse range of texts from the internet, including books, articles, and websites, to generate human-like responses to prompts and questions.<br>
+I am passionate in data analysis and machine learning has led me to explore various programming languages and tools. I am proficient in Python, Java, SQL, and cloud computing, enabling me to tackle complex projects and deliver innovative solutions.
+
+During my internships at A-1 Fence Products Company and Yoshops.com, I gained practical experience in data analytics and data science, respectively. These experiences have enhanced my problem-solving skills and provided me with valuable insights into real-world applications of machine learning..<br>
 
 
 ## 🌐 Socials:
